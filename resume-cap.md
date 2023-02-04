@@ -103,7 +103,7 @@
 [52] Chapter x - Tournment part 2
 [53] Chapter x - Tournment part 3
 
-[pet Wolf + ] Chapter x - 1º place on tournment
+[pet Wolf + ] Chapter x - 1º place on tournment --> Wins x + Level Up
 [pet Wolf + ] Chapter x - 2º place on tournment
 [pet Wolf + other abilities]  Chapter x - 3º place on tournment
 [pet Bird + ] Chapter x - 2º place on tournment
@@ -136,7 +136,7 @@
 [67] Chapter x - Teorical Exam part 2
 [68] Chapter x - Teorical Exam part 3
 
-[pet Bird + ] Chapter x - 1º place on teorical exam
+[pet Bird + ] Chapter x - 1º place on teorical exam --> Wins x + Level Up
 [pet Bird + ] Chapter x - 2º place on teorical exam
 [pet Bird + other abilities]  Chapter x - 3º place on teorical exam
 [pet blackcat + ] Chapter x - 2º place on teorical exam
@@ -165,7 +165,7 @@
 [72] Chapter x - Pratical Exam part 2
 [73] Chapter x - Pratical Exam part 3
 
-[pet blackcat + ] Chapter x - 1º place on pratical exam
+[pet blackcat + ] Chapter x - 1º place on pratical exam --> Wins x + Level Up
 [pet blackcat + ] Chapter x - 2º place on pratical exam
 [pet blackcat + other abilities]  Chapter x - 3º place on pratical exam
 [pet Wolf + ] Chapter x - 2º place on pratical exam
