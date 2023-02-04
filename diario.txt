@@ -1,19 +1,94 @@
-[1] Capitulo 23/12/2023
-
+[1] Capitulo 1/1/2024
 ---
 Diário Nº7
-Começo: 23/12/2023
-Fim:      /     /2024
+Começo: 1/1/2024
+Fim: 31/12/2024
 Estado atual: solteira
 Ano Atual: 12º ano (último ano)
-Maior sonho: Entrar na melhor faculdade do país. 
+Sonho: Entrar na melhor universidade do país. 
+---
+1. Aonde estou?
+Olá, estás dentro do diário da Joana. Aqui, registo os momentos mais marcantes na vida da Joana. Poderás também interagir com a história da prórpria personagem e obter algumas respostas. 
+2. Quem és tu?
+O meu nome é Joana Gomes. Vivo numa pequena cidade chamada Atri e tenho 18 anos. 
+3. Aonde posso aceder ao tutorial do jogo?
+Não existe um tutorial. Mas posso dar-te dicas ao longo do jogo, se essa for a tua escolha. Por exemplo, experimenta observar a barra superior do jogo.
+
+[2] Capitulo 12/1/2023
+---
+Nao percebo! Todas as escolas do concelho funcionam em 2 semestres, com exceção da minha. Insistem que 3 períodos é melhor. Não percebem que ter um período pequenino nao trás vantagens nenhumas? Para além disso a comida ainda continua má. Tenho esperanças que de ano para ano, a comida melhore, mas não. E pelo que entendi, não pretendem mudar. Mas não importa. Façam o que fizerem, não me vão impedir de entrar aonde quero. Tenho excelentes notas, tenho um currículo cheio de voluntariados e prémios. Todos os professores adoram-me. É uma questão de tempo até entrar aonde quero.  
+---
+1. Qual é o teu sonho?
+Estou no último ano do secundário. O meu maior e único objetivo é entrar na melhor universidade do país. 
+2. Aonde fizeste voluntariado?
+Fiz voluntariado numa organização que ajuda animais abandonados e idosos solitários. 
+3. Quais são os teus professores preferidos?
+Adoro a professor Inês, tem uma personalidade forte e uma atitude bastante direta. Um dia quero ser como ela, mas num sítio melhor.  
+
+[3] Capítulo 5/3/2023
+---
+Hoje tivemos um teste de matemática. Foi bastante acessível. A professora bem tentou fazer dois exercícios mais díficeis mas mesmo assim foram bastante fáceis. Tenho a certeza que metade da turma vai reprovar. A sorte deles é que a professora retira o pior teste da média anual. Em oposição, a aula de português foi uma perda de tempo. Não percebo, qual é a dificuldade em fazer um trabalho de casa. A Joana ainda tentou arranjar uma desculpa, mas a professora não acreditou. E tivemos a aula toda a fazer os exercícios. Como o dia foi super cansativo, liguei ao meu melhor amigo. Fomos passear no parque. Melhor parte do dia. 
+---
+1. Qual é a tua média?
+A minha média no 12º ano é 19,5. Mas a minha média no secundário, se tudo correr como previsto, será de 19.1.
+2. Quem é o teu melhor amigo?
+O meu melhor amigo é o Tiago. Tem 17 anos, como eu. Somos da mesma escola, mas de cursos diferentes. Ele não é muito inteligente, mas tem um humor bastante especial. 
+3. O que fizeram no parque?
+Normalmente, vamos até ao parque a pé. Fica perto da escola. Vamos para o baloiço conversar até o por do sol chegar. Se por acaso tiverem crianças, sentamo-nos no banco ao lado. 
+
+[4] Capítulo 12/3/2023
+---
+Hoje é o meu aniversário. Muita gente desejou-me os parabéns. Ainda estou indecisa o que vou fazer para o meu aniversário. Faço uma festa? Saio apenas com o meu melhor amigo? Vou ao cinema? Não sei. Preciso de ajuda a decidir. O Tiago disse para fazer uma festa grande mas não tenho confianças com quase ninguém. O que faço?
+---
+1. Gostava de te poder ajudar...
+E podes. Ao longo do livro terás a oportunidade de influenciar as escolhas da Joana e assim mudar o seu futuro. 
+2. Como posso te ajudar?
+Ao longo da história irão aparecer momentos de mais indecisão em que terás a oportunidade de ajudar a Joana. 
+3. Influências e Escolhas!
+Cuidado com o que escoher. Haverá decisões permanentes e decisão que poderão colocar em risca o futuro ou até mesmo a vida da Joana. 
+---
+1. Devias ir ao cinema com o teu melhor amigo 
+2. Devias ir ao cinema com todos os teus amigos. 
+3. Não faças festa de anos, festejas o teu aniversário de outra forma.  
 ---
 
-1.	Aonde estou?
-Olá, estás dentro do diário da Joana. Aqui, registo os momentos mais marcantes na vida da Joana. Aqui podes interagir com a própria personagem e obter respostas. 
-2.	Quem és tu?
-O meu nome é Joana Gomes. Vivo numa pequena cidade chamada Atri e tenho 18 anos.  
-3.	O que vais fazer?
-Estou no último ano do secundário. O meu maior e único objetivo é entrar na melhor faculdade do país. 
 
-[2] Capitulo 30/12/2023
+
+
+
+Falar que o tiago toma conta do irmão mais novo e que os pais sao bebados. Falar que a mãe, terminou relactionship e finalmente está a viver a vida. 
+
+
+
+[15] Capítulo car accidente
+---
+Está tudo a piscar... o que aconteceu? Mãe? Mãe..? Hm... Doí-me tudo... Tiago? Mãe?
+---
+1. A mãe e a Joana sobrevivem mas o Tiago não.
+2. O tiago e a Joana sobrevivem mas a mãe não. 
+3. A mãe e o Tiago sobrevivem mas a Joana não. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
